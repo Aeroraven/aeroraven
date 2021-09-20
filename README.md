@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 **Top-langs Statistics**<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&hide_border=true&layout=compact)<br/>
-<!--**Wakatime Statistics**<br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
+<!--**Wakatime Statistics**<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
