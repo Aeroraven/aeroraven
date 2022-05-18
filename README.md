@@ -11,8 +11,4 @@
 
 **Languages that I am planning to start to learn (if able):** CSharp, TypeScript, Rust
 
-**Things that I find boring:** Project Management & Economics, Market Economics
-
-**Things that I find disgusting:** Adoring idols
-
 **Leisure-time Hobbies:** PVE Games / Single-player Games, Surfing the Internet
