@@ -9,6 +9,6 @@
 
 **Fields that I find interesting**: Design & HCI, Web Design, Computer Vision, Computer Graphics
 
-**Languages that I am planning to start to learn (if able):** CSharp, TypeScript, Rust
+**Languages that I am planning to start to learn (if able):** CSharp, TypeScript, Rust, Golang
 
 **Leisure-time Hobbies:** PVE Games / Single-player Games, Surfing the Internet
