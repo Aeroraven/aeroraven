@@ -1,15 +1,17 @@
-# Hi, I am Chloroauric Acid
-I am a student majoring in computer-related fields. And I am currently living in the north hemisphere of the Earth.
+#  Hi, I am Chloroauric Acid
+I am a student majoring in computer-related fields. 
 
-## Facts about me
+And I am currently living in the north hemisphere of the Earth.
+
+## 😀 Facts about me
 ### Main Facts
 <details>
-  <summary><b>Preferred / Learned Languages</b></summary>
+  <summary><b> 🌟 Preferred / Learned Languages</b></summary>
   <pre> C++, Python3, Web Frontend(JavaScript, HTML5, CSS3), Basic</pre>
 </details>
 
 <details>
-  <summary><b>Used Languages</b></summary>
+  <summary><b> ⭐ Used Languages</b></summary>
   <pre><b>Frontend:</b> TypeScript
 <b>Desktop/Mobile Apps:</b> Java, C#
 <b>Operating System:</b> Assembly(NASM)
@@ -17,14 +19,14 @@ I am a student majoring in computer-related fields. And I am currently living in
 </details>
 
 <details>
-  <summary><b>Learned / Used Frameworks & Tools</b></summary>
+  <summary><b> ⚡ Learned / Used Frameworks & Tools</b></summary>
   <pre><b>Frontend Technology:</b> Vue.js(v2&v3), Webpack
 <b>Computer Vision & Machine Learning:</b> OpenCV, PyTorch, Keras
 <b>Computer Graphics:</b> OpenGL/WebGL</pre>
 </details>
 
 <details>
-  <summary><b>Attempted Frameworks & Tools</b></summary>
+  <summary><b> 🔨 Attempted Frameworks & Tools</b></summary>
   <pre><b>Frontend Technology:</b> UI Components(Vuetify, NaiveUI), Axios, Cordova
 <b>Computer Vision & Machine Learning:</b> Tensorflow
 <b>Computing:</b> CUDA
@@ -32,12 +34,12 @@ I am a student majoring in computer-related fields. And I am currently living in
 </details>
 
 <details>
-  <summary><b>Learning Interests</b></summary>
+  <summary><b> ❤ Learning Interests</b></summary>
   <pre>Computer Vision, Computer Graphics, Frontend Design</pre>
 </details>
 
 <details>
-  <summary><b>Learning Inclination / Plans</b></summary>
+  <summary><b> 🔥 Learning Inclination / Plans</b></summary>
   <pre><b>Tools & Frameworks</b>: PyTorch, OpenCV, OpenGL/WebGL, other Graphics/Game Engines
 <b>Programming Languages</b>: C#, TypeScript, Rust, Golang</pre>
 </details>
@@ -45,7 +47,7 @@ I am a student majoring in computer-related fields. And I am currently living in
 ### Miscellaneous Facts
 
 <details>
-  <summary><b>Leisure-time Hobbies</b></summary>
+  <summary><b> 😇 Leisure-time Hobbies</b></summary>
   <pre><b>Electronic Games:</b> TCG,RPG/ARPG,Sandbox,SIM,SLG. (PVE/Single-Player Only)
 <b>Surfing the Net:</b> Videos & News
 <b>Watching Anime:</b>
@@ -53,13 +55,14 @@ I am a student majoring in computer-related fields. And I am currently living in
 </details>
 
 <details>
-  <summary><b>Value Inclination</b></summary>
+  <summary><b> 🙂 Value Inclination</b></summary>
   <pre>Hold a neutral stance to almost everything
 Dislike over-hyped concepts: Showbiz celebrities, Topic of success, Over-emphasized marketing, Over-emphasized economics
 </pre>
 </details>
 
-## Statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&hide_border=true&layout=compact&langs_count=13) <br/>
+## 🌡 Statistics<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=14)
+![](https://github-readme-stats.vercel.app/api?username=aeroraven&show_icons=true)
 <!--**Wakatime Statistics**<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
