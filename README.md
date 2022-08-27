@@ -62,7 +62,7 @@ Dislike over-hyped concepts
 </details>
 
 ## 🌡 Statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=14)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=15)
 ![](https://github-readme-stats.vercel.app/api?username=aeroraven&show_icons=true)
 <!--**Wakatime Statistics**<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
