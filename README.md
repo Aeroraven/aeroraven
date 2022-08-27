@@ -57,7 +57,7 @@ And I am currently living in the north hemisphere of the Earth.
 <details>
   <summary><b> 🙂 Value Inclination</b></summary>
   <pre>Hold a neutral stance to almost everything
-Dislike over-hyped concepts: Showbiz celebrities, Topic of success, Over-emphasized marketing, Over-emphasized economics
+Dislike over-hyped concepts
 </pre>
 </details>
 
