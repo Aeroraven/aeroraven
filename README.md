@@ -35,7 +35,7 @@ And I am currently living in the north hemisphere of the Earth.
 
 <details>
   <summary><b> ❤ Learning Interests</b></summary>
-  <pre>Computer Vision, Computer Graphics, Frontend Design</pre>
+  <pre>Computer Vision / Machine Learning, Computer Graphics, Frontend Design</pre>
 </details>
 
 <details>
@@ -48,7 +48,7 @@ And I am currently living in the north hemisphere of the Earth.
 
 <details>
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
-  <pre><b>Electronic Games:</b> TCG,RPG/ARPG,Sandbox,SIM,SLG. (PVE/Single-Player Only)
+  <pre><b>Electronic Games:</b> TCG,RPG/ARPG,Open World,Sandbox,SIM,Tower Defense, Rougelike, Puzzle. (PVE/Single-Player Only)
 <b>Surfing the Net:</b> Videos & News
 <b>Watching Anime:</b>
 <b>Listening to Music:</b></pre>
@@ -66,3 +66,11 @@ Dislike over-hyped concepts
 ![](https://github-readme-stats.vercel.app/api?username=aeroraven&show_icons=true)
 <!--**Wakatime Statistics**<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
+
+
+## Other<br/>
+<details>
+<summary><b> Emm... </b></summary>
+![](https://genshin-card.getloli.com/48/245403823.png)
+</details>
+
