@@ -71,6 +71,6 @@ Dislike over-hyped concepts
 ## Other<br/>
 <details>
 <summary><b> Emm... </b></summary>
-![](https://genshin-card.getloli.com/48/245403823.png)
+<img src='https://genshin-card.getloli.com/48/245403823.png'></img>
 </details>
 
