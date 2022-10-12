@@ -43,7 +43,7 @@ And I am currently living in the north hemisphere of the Earth.
   <summary><b> 🔥 Learning Inclination / Plans</b></summary>
   <pre><b style="color:red !important">#### In Imagination ? ####</b>: (Tend to learn in leisure time)
 <b>Tools & Frameworks</b>: PyTorch, OpenCV, OpenGL/WebGL, other Graphics/Game Engines
-<b>Programming Languages</b>: C#, TypeScript</pre>
+<b>Programming Languages</b>: C#, TypeScript
 <b>Concepts</b>: XR, Interaction</pre>
 <pre>
 <b style="color:red !important">#### Subject to the Reality! ####</b>: (Rather to sleep instead of learning them in leisure time)
