@@ -56,7 +56,7 @@ And I am currently living in the north hemisphere of the Earth.
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
   <pre><b>Electronic Games:</b> TCG,RPG/ARPG,Open World,Sandbox,SIM,Tower Defense, Rougelike, Puzzle. (PVE/Single-Player Only)
 <b>Surfing the Net:</b> Videos & News & Memes
-<b>Watching Anime:</b>
+<b>Watching Anime:</b> Bocchi the Rock! (Currently)
 <b>Listening to Music:</b></pre>
 </details>
 
