@@ -47,14 +47,14 @@ And I am currently living in the north hemisphere of the Earth.
 <b>Concepts</b>: XR, Interaction</pre>
 <pre>
 <b style="color:red !important">#### Subject to the Reality! ####</b>: (Rather to sleep instead of learning them in leisure time)
-<b>Tools & Frameworks</b>: Docker, Golang</pre>
+<b>Tools & Frameworks</b>: Docker</pre>
 </details>
 
 ### Miscellaneous Facts
 
 <details>
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
-  <pre><b>Electronic Games:</b> TCG,RPG/ARPG,Open World,Sandbox,SIM,Tower Defense, Rougelike, Puzzle. (PVE/Single-Player Only)
+  <pre><b>Electronic Games:</b> TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). (PVE/Single-Player Only)
 <b>Surfing the Net:</b> Videos & News & Memes
 <b>Watching Anime:</b> Bocchi the Rock! (Currently)
 <b>Listening to Music:</b></pre>
@@ -68,6 +68,7 @@ Want to break the cage of feudalism.
 Embrace the liberty and the order.
 Idealist and dreaming for utopia.
 Passion should be prior to client requirements
+Hate competitions & Prefer cooperations
 </pre>
 </details>
 
@@ -91,6 +92,6 @@ Also, getting mad with those damn internet connection and outmoded computer devi
 ## Other<br/>
 <details>
 <summary><b> Emm... </b></summary>
-<img src='https://genshin-card.getloli.com/detail/48/245403823.png?t=114514'></img>
+<img src='https://genshin-card.getloli.com/48/245403823.png?t=114514'></img>
 </details>
 
