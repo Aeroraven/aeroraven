@@ -41,13 +41,11 @@ And I am currently living in the north hemisphere of the Earth.
 
 <details>
   <summary><b> 🔥 Learning Inclination / Plans</b></summary>
-  <pre><b style="color:red !important">#### In Imagination ? ####</b>: (Tend to learn in leisure time)
 <b>Tools & Frameworks</b>: PyTorch, OpenCV, OpenGL/WebGL, other Graphics/Game Engines
 <b>Programming Languages</b>: C#, TypeScript
 <b>Concepts</b>: XR, Interaction</pre>
 <pre>
-<b style="color:red !important">#### Subject to the Reality! ####</b>: (Rather to sleep instead of learning them in leisure time)
-<b>Tools & Frameworks</b>: Docker</pre>
+
 </details>
 
 ### Miscellaneous Facts
@@ -56,30 +54,10 @@ And I am currently living in the north hemisphere of the Earth.
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
   <pre><b>Electronic Games:</b> TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). (PVE/Single-Player Only)
 <b>Surfing the Net:</b> Videos & News & Memes
-<b>Watching Anime:</b> Bocchi the Rock! (Currently)
+<b>Watching Anime:</b>
 <b>Listening to Music:</b></pre>
 </details>
 
-<details>
-  <summary><b> 🙂 Value Inclination</b></summary>
-  <pre>Hold a neutral stance to many things, maybe?
-Dislike over-hyped concepts
-Want to break the cage of feudalism.
-Embrace the liberty and the order.
-Idealist and dreaming for utopia.
-Passion should be prior to client requirements
-Hate competitions & Prefer cooperations
-</pre>
-</details>
-
-<details>
-  <summary><b> 😐 Status</b></summary>
-  <pre>Seems that what I love contradicts to what I do. Some are learnt for work.
-Some are learnt with love and some are learnt for academic purpose.
-How can I unify these stuffs and avoid being a unprofessional full-stack worker?
-Also, getting mad with those damn internet connection and outmoded computer devices!
-</pre>
-</details>
 
 
 ## 🌡 Statistics<br/>
@@ -88,10 +66,4 @@ Also, getting mad with those damn internet connection and outmoded computer devi
 <!--**Wakatime Statistics**<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
 
-
-## Other<br/>
-<details>
-<summary><b> Emm... </b></summary>
-<img src='https://genshin-card.getloli.com/48/245403823.png?t=114514'></img>
-</details>
 
