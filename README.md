@@ -32,7 +32,7 @@ And I am living in the north hemisphere of the Earth.
 </details>
 
 <details>
-  <summary><b> 🔥 Learning Inclinations / Further Plans</b></summary>
+  <summary><b> 🔥 Sparetime Learning Inclinations / Sparetime Plans</b></summary>
 <pre>
 <b>Tools & Frameworks</b>: PyTorch, OpenCV, OpenGL/WebGL, other Graphics/Game Engines
 <b>Programming Languages</b>: C#, TypeScript
