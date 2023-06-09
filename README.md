@@ -50,6 +50,10 @@ And I am living in the north hemisphere of the Earth.
 <b>Listening to Music:</b></pre>
 </details>
 
+<details>
+  <summary><b> 😊 Other Facts</b></summary>
+<pre>Nothing here</pre>
+</details?
 
 
 ## 🌡 Statistics<br/>
