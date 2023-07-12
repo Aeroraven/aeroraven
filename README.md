@@ -1,4 +1,4 @@
-#  Hi, I am Chloroauric Acid
+#  Hello
 I am an introverted student (currently) majoring in computer-related fields. 
 
 And I am living in the north hemisphere of the Earth.
@@ -21,20 +21,20 @@ And I am living in the north hemisphere of the Earth.
 
 <details>
   <summary><b> ⚡ Learned / Used Frameworks & Tools</b></summary>
-  <pre><b>Frontend Technology:</b> Vue.js(v2&v3), Webpack
+  <pre><b>Frontend Technology:</b> Vue.js, Webpack
 <b>Computer Vision & Machine Learning:</b> OpenCV, PyTorch, Keras
 <b>Computer Graphics:</b> OpenGL/WebGL</pre>
 </details>
 
 <details>
   <summary><b> ❤ Learning Interests</b></summary>
-  <pre>Computer Vision / Machine Learning, Computer Graphics, UI Design(Webpages)</pre>
+  <pre>Computer Vision / Machine Learning, Computer Graphics, UI Design</pre>
 </details>
 
 <details>
   <summary><b> 🔥 Sparetime Learning Inclinations / Sparetime Plans</b></summary>
 <pre>
-<b>Tools & Frameworks</b>: PyTorch, OpenCV, OpenGL/WebGL, other Graphics/Game Engines
+<b>Tools & Frameworks</b>: PyTorch, OpenCV, WebGL, other Graphics/Game Engines
 <b>Programming Languages</b>: C#, TypeScript
 <b>Concepts</b>: XR, Interaction</pre>
 
@@ -53,7 +53,7 @@ And I am living in the north hemisphere of the Earth.
 <details>
   <summary><b> 😊 Other Facts</b></summary>
 <pre>Nothing here</pre>
-</details?
+</details>
 
 
 ## 🌡 Statistics<br/>
