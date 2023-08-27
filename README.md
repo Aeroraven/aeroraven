@@ -21,7 +21,7 @@ And I am living in the north hemisphere of the Earth.
 
 <details>
   <summary><b> ❤ Learning Interests</b></summary>
-  <pre>Miscellaneous (but might prioritize human ineraction and perception instead of software, abstraction, business, ...). 
+  <pre>Miscellaneous (but might prioritize human interaction and perception instead of software, abstraction, business, ...). 
 For example, Computer Vision / Machine Learning, Computer Graphics, UI Design, ...
 However, all are acceptable for me.</pre>
 </details>
