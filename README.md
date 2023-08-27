@@ -1,5 +1,5 @@
 #  Hello
-I am an introverted student (currently) majoring in computer-related fields and drowning in the voidness.
+I am an introverted student (currently) majoring in computer-related fields and drowning in the void.
 
 And I am living in the north hemisphere of the Earth.
 
