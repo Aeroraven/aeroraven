@@ -6,33 +6,38 @@ And I am living in the north hemisphere of the Earth.
 ## 😀 Facts about me
 ### Main Facts
 <details>
-  <summary><b> 🌟 Preferred / Learned Languages</b></summary><pre>
-  <b>Frequently Used Now</b>: Python3, Web Frontend Techniques
-  <b>Frequently Used Before</b>: C++ (Legacy Standards)</pre>
+  <summary><b> ❤ Working Orientations / Learning Orientations </b></summary>
+<pre><b>Scheduled Learning Orientations</b>: 
+  Computer Science & Cognitive Modeling (Visual Perception) 
+<b>Preferred Choices:</b>: 
+  Machine Learning (Deep Learning), Human-Computer Interaction, Computer Vision,
+  Computer Graphics, Gaming Technologies, User Interface Designing 
+<b>Acceptable Choices:</b>: 
+  Miscellaneous directions are all acceptable</pre>
 </details>
 
 <details>
-  <summary><b> ⚡ Learned / Used Frameworks & Tools</b></summary>
-  <pre>
-  <b>Frontend Technology:</b> Vue.js, Webpack
-  <b>Computer Vision & Machine Learning:</b> OpenCV, PyTorch
-  <b>Computer Graphics:</b> OpenGL/WebGL</pre>
+  <summary><b> 🌟 Acquired Skills </b></summary><pre>
+  <b>Frequently Used Programming Languages</b>: 
+    Python3, C++, TypeScript/JavaScript
+  <b>Learned Frameworks & Tools</b>:
+    - Frontend Techniques: Vue.js
+    - Artificial Intelligence: PyTorch, OpenCV
+    - Computer Graphics: WebGL</pre>
 </details>
 
-<details>
-  <summary><b> ❤ Learning Interests</b></summary>
-  <pre>Miscellaneous (but might prioritize human interaction and perception instead of software, abstraction, business, ...). 
-For example, Computer Vision / Machine Learning, Computer Graphics, UI Design, ...
-However, all are acceptable for me.</pre>
-</details>
 
 <details>
   <summary><b> 🔥 Sparetime Learning Inclinations / Daydreaming Plans </b></summary>
 <pre>
-<b>Tools & Frameworks</b>: PyTorch, OpenCV, WebGL/WebGPU, Graphics/Game Engines
-<b>Programming Languages</b>: C#, TypeScript, C++ (latest standards), Python
-<b>Concepts</b>: XR, Interaction, Game Development
-<b>Other</b>: Third (human) language acquisition</pre>
+  <b>Tools & Frameworks</b>: 
+    PyTorch, OpenCV, WebGL/WebGPU, Graphics/Game Engines
+  <b>Programming Languages</b>: 
+    C#, TypeScript, C++ (latest standards), Python
+  <b>Concepts & Fields</b>: 
+    XR, Interaction, Game Development
+  <b>Other</b>: 
+    Third (human) language acquisition</pre>
 
 </details>
 
@@ -40,11 +45,15 @@ However, all are acceptable for me.</pre>
 
 <details>
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
-<pre><b>Playing Electronic Games:</b> TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). (PVE/Single-Player Only)
-<b>Wandering in Cyberspace:</b> Videos & News & Memes
-<b>Watching Anime:</b>
-<b>Listening to Music:</b>
-<b>Enjoying Dishes:</b>
+<pre>
+  <b>Playing Electronic Games:</b> 
+    TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). 
+    (PVE/Single-Player Only)
+  <b>Wandering in Cyberspace:</b> 
+    Videos & News & Memes
+  <b>Watching Anime:</b>
+  <b>Listening to Music:</b>
+  <b>Enjoying Dishes:</b>
 </pre>
 </details>
 
