@@ -8,7 +8,7 @@ And I am living in the north hemisphere of the Earth.
 <details>
   <summary><b> ❤ Working Orientations / Learning Orientations </b></summary>
 <pre><b>Scheduled Learning Orientations</b>: 
-  Computer Science & Cognitive Modeling (Visual Perception) 
+  Computer Science 
 <b>Preferred Choices:</b>: 
   Machine Learning (Deep Learning), Human-Computer Interaction, Computer Vision,
   Computer Graphics, Gaming Technologies, User Interface Designing 
@@ -31,7 +31,7 @@ And I am living in the north hemisphere of the Earth.
   <summary><b> 🔥 Sparetime Learning Inclinations / Daydreaming Plans </b></summary>
 <pre>
   <b>Tools & Frameworks</b>: 
-    PyTorch, OpenCV, WebGL/WebGPU, Graphics/Game Engines
+    PyTorch, OpenCV, Vulkan?, WebGL/WebGPU, Graphics/Game Engines
   <b>Programming Languages</b>: 
     C#, TypeScript, C++ (latest standards), Python
   <b>Concepts & Fields</b>: 
