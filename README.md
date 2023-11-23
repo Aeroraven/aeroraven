@@ -66,7 +66,7 @@ Crazy stargazer. Now starring repos that are INNOVATIVE, CREATIVE and made with 
 
 
 ## 🌡 Statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=16)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=pie&langs_count=16)
 
 
 
