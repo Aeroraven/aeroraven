@@ -33,12 +33,13 @@ And I am living in the north hemisphere of the Earth.
   <b>Tools & Frameworks</b>: 
     PyTorch, OpenCV, Vulkan?, WebGL/WebGPU, Graphics/Game Engines
   <b>Programming Languages</b>: 
-    C#, TypeScript, C++ (latest standards), Python
+    C#*, TypeScript, C++ (C++23 & STL)*, Python, SHader Languages
   <b>Concepts & Fields</b>: 
     XR, Interaction, Game Development
   <b>Other</b>: 
     Third (human) language acquisition</pre>
 
+*. Ongoing Plan
 </details>
 
 ### Miscellaneous Facts
@@ -46,14 +47,14 @@ And I am living in the north hemisphere of the Earth.
 <details>
   <summary><b> 😇 Leisure-time Hobbies</b></summary>
 <pre>
-  <b>Playing Electronic Games:</b> 
-    TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). 
-    (PVE/Single-Player Only)
+  <b>Playing Games:</b> 
+    Mainly TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). 
+    (But PVE/Single-Player games Only)
   <b>Wandering in Cyberspace:</b> 
     Videos & News & Memes
   <b>Watching Anime:</b>
   <b>Listening to Music:</b>
-  <b>Enjoying Dishes:</b>
+  <b>Enjoying Dishes: (Without Spicy Dishes)</b>
 </pre>
 </details>
 
@@ -65,9 +66,7 @@ Crazy stargazer. Now starring repos that are INNOVATIVE, CREATIVE and made with 
 
 
 ## 🌡 Statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=15)
-<!--![](https://github-readme-stats.vercel.app/api?username=aeroraven&show_icons=true)-->
-<!--**Wakatime Statistics**<br/>-->
-<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Aeroraven&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=16)
+
 
 
