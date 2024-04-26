@@ -31,9 +31,9 @@ And I am living in the north hemisphere of the Earth.
   <summary><b> 🔥 Sparetime Learning Inclinations / Daydreaming Plans </b></summary>
 <pre>
   <b>Tools & Frameworks</b>: 
-    PyTorch, OpenCV, Vulkan?, WebGL/WebGPU, Graphics/Game Engines
+    PyTorch, OpenCV, Vulkan/DX12?, WebGL/WebGPU, Graphics/Game Engines
   <b>Programming Languages</b>: 
-    C#*, TypeScript, C++ (C++23 & STL)*, Python, SHader Languages
+    C#*, TypeScript, C++ (C++23 & STL)*, Python, Shader Languages
   <b>Concepts & Fields</b>: 
     XR, Interaction, Game Development
   <b>Other</b>: 
