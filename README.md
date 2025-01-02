@@ -5,68 +5,31 @@ And I am living in the north hemisphere of the Earth.
 
 ## 😀 Facts about me
 ### Main Facts
-<details>
-  <summary><b> ❤ Working Orientations / Learning Orientations </b></summary>
-<pre><b>Scheduled Learning Orientations</b>: 
-  Computer Science 
-<b>Preferred Choices:</b>: 
-  Machine Learning (Deep Learning), Human-Computer Interaction, Computer Vision,
-  Computer Graphics, Gaming Technologies, User Interface Designing 
-<b>Acceptable Choices:</b>: 
-  Miscellaneous directions are all acceptable</pre>
-</details>
+**❤ Working Orientations / Learning Orientations**
 
-<details>
-  <summary><b> 🌟 Acquired Skills </b></summary><pre>
-  <b>Frequently Used Programming Languages</b>: 
-    Python3, C++, TypeScript/JavaScript
-  <b>Learned Frameworks & Tools</b>:
-    - Frontend Techniques: Vue.js
-    - Artificial Intelligence: PyTorch, OpenCV
-    - Computer Graphics: WebGL</pre>
-</details>
+- ML/DL(Computer Vision)
+- Human-Computer Interaction, Gaming Technologies, Computer Graphics
 
+**🌟 Acquired Skills**
 
-<details>
-  <summary><b> 🔥 Sparetime Learning Inclinations / Daydreaming Plans </b></summary>
-<pre>
-  <b>Tools & Frameworks</b>: 
-    PyTorch, OpenCV, Vulkan/DX12?, WebGL/WebGPU, Graphics/Game Engines
-  <b>Programming Languages</b>: 
-    C#*, TypeScript, C++ (C++23 & STL)*, Python, Shader Languages
-  <b>Concepts & Fields</b>: 
-    XR, Interaction, Game Development
-  <b>Other</b>: 
-    Third (human) language acquisition</pre>
+- **Freq Languages Used**: Python, C++, TS/JS
+- **Frameworks/Tool Used**: PyTorch, Vue.js, WebGL2
 
-*. Ongoing Plan
-</details>
+**🔥 Learning Plans / Interests**
+
+- **Tools & Frameworks:** PyTorch, Game Engines & Modern Graphics APIs(Vulkan/DX12/WGPU)
+- **Programming Languages:** CSharp, Modern C++, Shader Languages(HLSL/GLSL)
+- **Daily Life:** Third (human) language acquisition
 
 ### Miscellaneous Facts
 
-<details>
-  <summary><b> 😇 Leisure-time Hobbies</b></summary>
-<pre>
-  <b>Playing Games:</b> 
-    Mainly TCG(Rougelike), RPG(Open World, ARPG, JRPG), SIM/SLG(Sandbox,Tower Defense). 
-    (But PVE/Single-Player games Only)
-  <b>Wandering in Cyberspace:</b> 
-    Videos & News & Memes
-  <b>Watching Anime:</b>
-  <b>Listening to Music:</b>
-  <b>Enjoying Dishes: (Without Spicy Dishes)</b>
-</pre>
-</details>
-
-<details>
-  <summary><b> 😊 Other Facts</b></summary>
-<pre>Wondering if the world can become more INNOVATIVE, more INCLUSIVE, more FREE and more EQUAL.
-Crazy stargazer. Now starring repos that are INNOVATIVE, CREATIVE and made with FUN.</pre>
-</details>
-
+**😇 Leisure-time Hobbies**
+- **Unskilled Game Player:** Prefer to non-competitive games (PVE/Collab). Mainly playing TCG, RPG, SIM/SLG. 
+- **Cyberspace Wanderer:** Searching for Videos & News & Memes.
+- **Crazy Stargazer:** Starring repos that are INNOVATIVE, CREATIVE and made with FUN.
 
 ## 🌡 Statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=pie&langs_count=16)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroraven&line_height=21&theme=vue&layout=compact&langs_count=16)
 
 
 
