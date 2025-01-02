@@ -7,7 +7,7 @@ And I am living in the north hemisphere of the Earth.
 ### Main Facts
 **❤ Working On**
 - **Active**
-  - ML/DL(Computer Vision)
+  - ML/DL(Computer Vision), Space Perception/3D Vision
   - Human-Computer Interaction, Gaming Technologies, Computer Graphics
 - **Formerly**
   - Web Frontend
