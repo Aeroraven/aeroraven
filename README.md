@@ -5,7 +5,7 @@ And I am living in the north hemisphere of the Earth.
 
 ## 😀 Facts about me
 ### Main Facts
-**❤ Working Orientations / Learning Orientations**
+**❤ Working On**
 
 - ML/DL(Computer Vision)
 - Human-Computer Interaction, Gaming Technologies, Computer Graphics
