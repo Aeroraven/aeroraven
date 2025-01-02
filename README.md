@@ -12,8 +12,10 @@ And I am living in the north hemisphere of the Earth.
 
 **🌟 Acquired Skills**
 
-- **Freq Languages Used**: Python, C++, TS/JS
-- **Frameworks/Tool Used**: PyTorch, Vue.js, WebGL2
+- **Languages Used**:
+  - **Frequently Used:** Python, C++, TS/JS
+  - **Once Used:** CSharp, C, GLSL
+- **Frameworks/Tool Used**: PyTorch, Vue.js, WebGL2, CUDA
 
 **🔥 Learning Plans / Interests**
 
