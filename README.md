@@ -1,7 +1,5 @@
 #  Hello
-I am an introverted student (currently) majoring in computer-related fields and drowning in the void.
-
-And I am living in the north hemisphere of the Earth.
+I am an introverted student (currently) majoring in computer-related fields and living in the north hemisphere of the Earth.
 
 ## 😀 Facts about me
 ### Main Facts
@@ -22,7 +20,7 @@ And I am living in the north hemisphere of the Earth.
 **🔥 Learning Plans / Interests**
 
 - **Tools & Frameworks:**
-  - Artificial Intelligence Frameworks (like PyTorch)
+  - Artificial Intelligence Frameworks (like PyTorch), AI Software (like SD)
   - Game Engines (Unity/Unreal) & Modern Graphics APIs(Vulkan/DX12/WGPU)
 - **Programming Languages:**
   - C\#, Modern C++, HLSL
