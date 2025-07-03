@@ -6,11 +6,11 @@ I am an introverted student (currently) majoring in computer-related fields and 
 **❤ I am working on**
   - Machine Learning, Computer Vision
   - Human-Computer Interaction, Gaming Technologies, Computer Graphics
-  - Web Frontend (Web3D)
+  - <s>Web Frontend (Web3D)</s>
 
 **🌟 I once knew**
   - Python, C/C++, C\#, TypeScript
-  - PyTorch, Vue.js, WebGL2, CUDA
+  - PyTorch, <s>Vue.js</s>, WebGL2, CUDA
 
 **🔥 I am learning / planning to learn**
   - Artificial Intelligence Frameworks (like PyTorch), AI Software (like SD)
