@@ -4,7 +4,7 @@ I am an introverted student (currently) majoring in computer-related fields and 
 ## 😀 Facts about me
 
 **❤ I am working on**
-  - Computer Vision
+  - <s>Computer Vision</s>
   - Computer Graphics
   - Gaming Technologies
 
