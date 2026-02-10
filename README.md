@@ -3,11 +3,6 @@ I am an introverted student (currently) majoring in computer-related fields and 
 
 ## 😀 Facts about me
 
-**❤ I am working on**
-  - <s>Computer Vision</s>
-  - Computer Graphics
-  - Gaming Technologies
-
 **🌟 I once knew**
   - Python, C/C++, C\#, TypeScript, <s>Visual Basic</s>
   - PyTorch, <s>Vue.js</s>, WebGL2, CUDA
