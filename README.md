@@ -4,18 +4,18 @@ I am an introverted student (currently) majoring in computer-related fields and 
 ## 😀 Facts about me
 
 **🌟 I once knew**
-  - Python, C/C++, C\#, TypeScript, <s>Visual Basic</s>
-  - PyTorch, <s>Vue.js</s>, WebGL2, CUDA
+  - Python, C/C++, TypeScript
+  - <s>Now: Codex, Claude Code, Copilot!</s>
 
 **🔥 I am learning / planning to learn**
   - AI-Powered Tools
-  - Game Engines (Unity/Unreal) & Modern Graphics APIs(Vulkan/DX12) & C\#, Modern C++
-  - Third (human) language acquisition
+  - Gaming Technologies, Graphics/Vision
+  - <s>Third (human) language acquisition</s>
 
 **😇 When I am resting, I identify myself as**
-- **Unskilled Player:** Prefer to non-competitive games. Maybe TCG, RPG, SIM/SLG?
+- **Unskilled Player:** Prefer to non-competitive games. Especially Roguelike! And maybe TCG, RPG, SIM/SLG? And anime gacha games?
 - **Cyberspace Wanderer:** Searching for Videos & News & Memes.
-- **Crazy Stargazer:** Starring repos that are INNOVATIVE, CREATIVE and made with FUN.
+- **Crazy Stargazer:** Starring repos that are INNOVATIVE, CREATIVE and made with FUN!
 
 <details> 
   <summary> And More? </summary>
