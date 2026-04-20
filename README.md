@@ -9,11 +9,10 @@ I am an introverted student (currently) majoring in computer-related fields and 
 
 **🔥 I am learning / planning to learn**
   - AI-Powered Tools
-  - Gaming Technologies, Graphics/Vision
-  - <s>Third (human) language acquisition</s>
+  - Gaming Tech, Graphics/Vision
 
 **😇 When I am resting, I identify myself as**
-- **Unskilled Player:** Prefer to non-competitive games. Especially Roguelike! And maybe TCG, RPG, SIM/SLG? And anime gacha games?
+- **Unskilled Player:** Prefer to non-competitive games.
 - **Cyberspace Wanderer:** Searching for Videos & News & Memes.
 - **Crazy Stargazer:** Starring repos that are INNOVATIVE, CREATIVE and made with FUN!
 
